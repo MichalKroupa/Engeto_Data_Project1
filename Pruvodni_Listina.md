@@ -2,7 +2,7 @@
 první projekt pro Engeto datovou analýzu
 Průvodní listina
 
-Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli, že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
+Na našem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jsne se dohodli, že se pokusíne odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusím odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
 
 1. otázka - Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
    Ano, v průběhu let mzdy ve všech odvětvích rostou. Jedinou vyjímkou jsou Kulturní, zábavní a rekreační činnosti, Stavebnictví, Veřejná správa a obrana;povinné sociální zabezpečení, Vzdělávání a Zemědělství, lesnictví a rybářství. V těchto odvětvích došlo k lehkému poklesu mezd v roce 2021, což může být způsobeno koronavirou pandemií.
