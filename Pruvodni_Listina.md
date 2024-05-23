@@ -8,19 +8,19 @@ Na našem analytickém oddělení nezávislé společnosti, která se zabývá �
    
    Ano, v průběhu let mzdy ve všech odvětvích rostou. Jedinou vyjímkou jsou Kulturní, zábavní a rekreační činnosti, Stavebnictví, Veřejná správa a obrana;povinné sociální zabezpečení, Vzdělávání a Zemědělství, lesnictví a rybářství. V těchto odvětvích došlo k lehkému poklesu mezd v roce 2021, což může být způsobeno koronavirou pandemií.
 
-3. otázka - Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+2. otázka - Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
    
    Srovnávám období 2006 a 2018. V roce 2006 bylo možné si za průměrnou výplatu koupit 1257 kg chleba a 1404 litrů mléka. V roce 2018 bylo možné si za průměrnou výplatu koupit 1317 kg chleba a 1611 litrů mléka.
    
-5. otázka - Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
-   
-   Nejnižší percentuální meziroční nárust byl u produktu Rajská jablka Červená kulatá, kde mezi lety 2006 a 2007 došlo ke zlevnění o 30.28%
+3. otázka - Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
-7. otázka - Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+     Nejnižší percentuální meziroční nárust byl u produktu Vepřová pečeně s kostí, kde mezi lety 2008 a 2009 došlo ke zdražení o 0.02%, jinak k největšímu percentuálnímu meziročnímu poklesu došlo u produktu Rajská jablka Červená kulatá, kde mezi lety 2006 a 2007 došlo ke zlevnění o 30.28%.
+
+4. otázka - Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
    
    Ano, jednalo se o období mezi lety 2011 a 2012, kdy ceny vzrostly o 11,61 % více než mzdy.
 
-9. otázka - Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+5. otázka - Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
     
-   Ne, výška HDP nemá vliv na změny ve mzdách a cenách. Změny jsou minimální a nekorespondují s trendem změny HPD.
+   Ne, výška HDP nemá vliv na změny ve mzdách a cenách. Změny nekorespondují s trendem změny HDP.
 
